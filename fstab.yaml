@@ -1,5 +1,5 @@
 mountpoints:
  /: https://adobe.sharepoint.com/:f:/r/sites/wknd-dba/Shared%20Documents/workday-wknd?csf=1&web=1&e=fD6bxC
- /da:
+ /da/:
     url: https://content.da.live/ajaniadobe/workday-dba/
     type: markup
